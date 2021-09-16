@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comics>
+	<publisher>Marvel Comics</publisher>
+		<superherous>
+			<alias>Captain America</alias>
+			<name>Steve Rogers</name>
+			<position> positive</position>
+			<species>Super-Soldier </species>
+			<team>Avengers</team>
+			<nationality>american</nationality>
+			<gender>male</gender>
+		</superherous>
+
+	<publisher>Marvel Comics</publisher>
+		<supervillain>
+			<name>Loki Odinson</name>
+			<gender>male</gender>
+			<abilities>deceit</abilities>
+			<species>God</species>
+			<origin>
+				<born>Jotunheim</born>
+				<increased>Asgard</increased>
+			</origin>
+			<nationality>Asgardian</nationality>
+			<gender>male</gender>
+			<family>
+				<father>
+					<species>God</species>
+					<name>Odin</name>
+				</father>
+				<brother>
+					<species>God</species>
+					<name>Thor</name>
+				</brother>
+			</family>
+		</supervillain>
+
+	<publisher>DC Comics</publisher>
+		<supervillain>
+			<alias>Catwoman</alias>
+			<name>Selina Kyle</name>
+			<gender>female</gender>
+			<abilities>burglar</abilities>
+			<growth>175 cm</growth>
+			<weight>60 Kg</weight>
+			<partnerships>
+				<man>
+					<name>Batman</name>
+					<position>positive</position>
+				</man>
+				<woman>
+					<name>Harley Quinn</name>
+					<position>negative</position>
+				</woman>
+			</partnerships>
+		</supervillain>
+  
+	<publisher>DC Comics</publisher>
+		<superherous>
+			<alias>Superman</alias>
+			<name>Clark Kent</name>
+			<occupation>Reporter</occupation>
+			<gender>male</gender>
+			<species>Kryptonian</species>
+			<growth>191 cm</growth>
+			<weight>107 Kg</weight>
+			<powers>Superpower</powers>
+			<weaknesses>kryptonite</weaknesses>
+			<antagonists>
+				<human>Lex Luthor</human>
+				<kryptonian>Doomsday</kryptonian>
+			</antagonists>
+		</superherous>
+ 
+	<publisher>Marvel Comics</publisher>
+		<superherous>
+			<alias>Rocky Raccoon</alias>
+			<position>positive</position>
+			<species>anthropomorphic animal</species>
+			<team>Guardians of the Galaxy</team>
+			<gender>male</gender>
+			<growth>125</growth>
+			<weight>23</weight>
+			<partnerships>Groot</partnerships>
+			<antagonists>Thanos</antagonists>
+			<equipment>Various weapons</equipment>
+			<vehicle>Spaceship</vehicle>
+		</superherous>
+   </comics>
+
+ 
+	
+

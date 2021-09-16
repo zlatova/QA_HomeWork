@@ -1,0 +1,80 @@
+[
+{
+    "kindom": "Amimal",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "suborder": "Feliformia",
+    "family": "Felidae",
+    "subfamily": "Pantherinae",
+    "genus": "Panthera",
+    "species": [
+        "Leo",
+        "Tiger",
+        "Jaguar",
+        "Leopard"
+    ],
+    "habitat": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "Central America"
+    ]
+},
+{
+    "kindom": "Amimal",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "infraorder": "Cetacea",
+    "family": "Delphinidae",
+    "genus": "Orcinus",
+    "species": [
+        "Orca",
+        "Delphinus"
+    ],
+    "life_cycle":80
+},   
+    {
+    "kindom": "Amimal",
+    "phylum": "Echinodermata",
+    "superclass": "Asterozoa",
+    "class": "Asteroidea"
+},
+    
+    {
+    "kindom": "Amimal",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "subfamily": "Bovinae",
+    "genus": "Bos",
+    "species": "Bos Taurus",
+    "subspecies": [
+        "Bos taurus indicus",
+        "Bos taurus taurus"
+    ],
+    "weight": [
+        300,
+        500,
+        700,
+        1000
+    ]
+},
+    
+    
+    {
+    "kindom": "Amimal",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "species": "P. fluviatilis",
+    "habitat": "freshwater",
+    "area": [
+        "Europe",
+        "Northern Asia"
+    ]
+}
+]

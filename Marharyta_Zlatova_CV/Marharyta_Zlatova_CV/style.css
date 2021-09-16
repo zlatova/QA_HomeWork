@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&display=swap');
+
+
+body {
+    font-family: 'Oxygen', sans-serif;
+    background: url(https://www.jqueryscript.net/images/Create-An-Animated-Radial-Gradient-Background-With-jQuery-CSS3.jpg);
+    background-size: cover;
+    padding: 100px;
+}
+
+h3{
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+h5{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    }
+
+.container {
+    width: 800px;
+    min-height: 500px;
+    border: 10px solid #fff;
+    margin: 0 auto;
+    background: #fff;    
+}
+
+.header {
+    display: flex;
+    height: 150px;
+    
+}
+
+.title-block {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    font-size: 30px;
+    background: url("images/photo_2021-08-27_15-01-23.jpg") 
+    no-repeat center center / cover;
+    color: #fff;
+    margin-right: 10px;
+
+}
+
+
+.userpic {
+    display: flex;
+    width: 20%;
+    background: url('https://u-tor.com/wp-content/uploads/2020/05/christopher-gower-m_HRfLhgABo-unsplash-2048x1363-2.jpg')
+     no-repeat center center / cover;
+}
+
+.nav ul {
+    display: flex;
+    background: #5a5a5a;
+    margin: 10px 0;
+}
+
+ .nav li a {
+    display: flex;
+    padding: 20px;
+    text-decoration: none;
+    color: #b4b4b4;
+    font-weight: bold;
+    border-right: 1 px solid #c6c8c9;
+    transition: background 3s ease;
+ }
+
+ .nav li a:hover{
+     background: gray;
+ }
+
+ .content-wrapper{
+    display: flex;
+ }
+
+ .content {
+    width: 70%;
+    padding: 20px;
+}
+ 
+.content p {
+    line-height: 20px;
+}
+
+
+ .sidebar{
+    border: 1px;
+    width: 30% ;
+    padding: 20px;
+
+ }
+
+ .skills li {
+    margin: 10px 0;
+ }
+
+ .contact {
+    
+    line-height: 20px;
+    margin: 10px 0;
+ }
+
+
+
